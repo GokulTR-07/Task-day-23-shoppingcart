@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../React"
+		},
+		{
+			"path": "../../Task-23"
+		},
+		{
+			"path": "../../Task day-26"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice"
+	}
+}

@@ -1,0 +1,15 @@
+.images{
+  height: 200px;
+}
+
+.card{
+  box-shadow: 5px 5px 20px;
+}
+
+.card:hover{
+  margin: -10px;
+}
+
+.card-text{
+  font-weight: bold;
+}

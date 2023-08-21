@@ -1,0 +1,22 @@
+.shop-name{
+  border: 1px solid white;
+  border-radius: 3px;
+  padding: 5px 10px;
+}
+
+.navbar{
+  border-bottom: 1px solid white;
+  padding: 12px 0px;
+}
+
+.cart-value{
+  margin-left: 5px;
+  border: 1px solid white;
+  padding: 1px 7px;
+  border-radius: 30px;
+}
+
+
+.cart:hover .cart-value {
+  border: 1px solid black;
+}
